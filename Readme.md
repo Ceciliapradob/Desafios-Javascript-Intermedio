@@ -1,10 +1,10 @@
 
-Aquí tienes un README bien estructurado que puedes usar para tu proyecto en GitHub:
 
-🧠 Ejercicios de Lógica en JavaScript
+
+🧠 ## Ejercicios de Lógica en JavaScript
 Bienvenidos a este proyecto de Ejercicios de Lógica en JavaScript. Aquí encontrarás una serie de problemas de código diseñados para poner a prueba y mejorar tu capacidad de resolver problemas de programación. Los ejercicios abordan una variedad de temas esenciales en JavaScript que son clave para cualquier desarrollador.
 
-📋 Requisitos Previos
+📋 ## Requisitos Previos
 Para sacar el máximo provecho de estos ejercicios, se recomienda que tengas una base sólida en los siguientes conceptos de JavaScript:
 
 Variables: Declaración y asignación de datos.
@@ -17,7 +17,7 @@ Métodos de Arrays y Strings: Usar funciones predefinidas como .map(), .filter()
 Si tienes un conocimiento básico de estos conceptos, ¡ya estás listo para comenzar!
 
 
-🚀 Cómo Empezar
+🚀 ## Cómo Empezar
 Para empezar a practicar con estos ejercicios, sigue los siguientes pasos:
 
 Clona el repositorio: Descarga el código en tu máquina local usando el siguiente comando en tu terminal:
@@ -35,7 +35,7 @@ code .
 Resuelve los ejercicios. Cada ejercicio está separado en archivos individuales. Revisa cada archivo, lee las instrucciones y resuelve el problema.
 
 
-💻 Estructura de los Ejercicios
+💻 ## Estructura de los Ejercicios
 Los ejercicios están organizados por dificultad, de menor a mayor. Cada archivo contiene un comentario con la instrucción clara del problema a resolver. Los problemas son prácticos y se basan en situaciones reales o comunes en la programación.
 
 Por ejemplo:
@@ -50,7 +50,7 @@ Archivo: ejercicio2.js
 
 Y así sucesivamente.
 
-✨ Ejemplos de Ejercicios
+✨ ## Ejemplos de Ejercicios
 Algunos de los ejercicios que encontrarás incluyen:
 
 Contar cuántas veces aparece cada letra en una palabra.
@@ -60,7 +60,7 @@ Filtrar números primos de un array.
 Validar si una palabra es un palíndromo.
 Cada archivo tiene comentarios que explican el objetivo del ejercicio, y se proporciona un ejemplo de entrada y salida esperado.
 
-🛠️ Herramientas Recomendadas
+🛠️ ## Herramientas Recomendadas
 Node.js: Puedes usar Node.js para ejecutar los ejercicios directamente en tu terminal. Si aún no lo tienes instalado, descárgalo de nodejs.org.
 Editor de Código: Usa un editor como Visual Studio Code para facilitar la escritura y prueba de código.
 Para ejecutar un archivo en Node.js:
