@@ -23,7 +23,7 @@ Para empezar a practicar con estos ejercicios, sigue los siguientes pasos:
 Clona el repositorio: Descarga el código en tu máquina local usando el siguiente comando en tu terminal:
 
 
-git clone https://github.com/tuusuario/nombre-del-repo.git
+git clone https://github.com/Ceciliapradob/Desafios-Javascript-Intermedio
 Navega al directorio del proyecto:
 
 
