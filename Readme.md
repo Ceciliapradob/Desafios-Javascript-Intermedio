@@ -1,7 +1,7 @@
 
 
 
-🧠 ## Ejercicios de Lógica en JavaScript
+## 🧠  Ejercicios de Lógica en JavaScript
 Bienvenidos a este proyecto de Ejercicios de Lógica en JavaScript. Aquí encontrarás una serie de problemas de código diseñados para poner a prueba y mejorar tu capacidad de resolver problemas de programación. Los ejercicios abordan una variedad de temas esenciales en JavaScript que son clave para cualquier desarrollador.
 
 📋 ## Requisitos Previos
